@@ -1,5 +1,4 @@
 # hello-world
-Another repository for practising GitHub
 
 Hello fellow humans!
 
